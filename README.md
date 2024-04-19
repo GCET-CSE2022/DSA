@@ -43,4 +43,5 @@ Contributions are welcome!
 
 ---
 
-🙏 Thank you for visiting our Data Structures and Algorithms GitHub Repository! Let's build a strong foundation together and empower developers worldwide. Don't forget to star ⭐ the repository and watch for updates. Happy coding! 🚀
+🙏 Thank you for visiting our Data Structures and Algorithms GitHub Repository!.Let's build a strong foundation together. Don't forget to fork 🍴 and star ⭐ the repository and stay tuned for updates!
+
