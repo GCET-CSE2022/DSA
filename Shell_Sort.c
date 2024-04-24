@@ -55,12 +55,12 @@ int main()
 }
 /*
 Worst Case Complexity
-The worst-case complexity for shell sort is O(n2)
+The worst-case complexity for shell sort is O(n^2)
 Best Case Complexity
 When the given array list is already sorted the total count of comparisons of each interval is equal to the size of the given array.
-So best case complexity is Ω(n log(n))
+So best case complexity is Ω(n*log(n))
 Average Case Complexity
-The Average Case Complexity: O(n*log n)~O(n1.25)
+The Average Case Complexity: O(n*log n)
 Space Complexity
 The space complexity of the shell sort is O(1).
 */
