@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+// Quick sort is a divide-and-conquer algorithm. It selects a pivot element and partitions the array around the pivot,
+// such that elements less than the pivot are placed before it, and elements greater than the pivot are placed after it.
+// The process is recursively applied to the sub-arrays until the entire array is sorted.
+
 // Function: partition
 // Description: Partitions the array into two halves based on a pivot element.
 // Parameters:
