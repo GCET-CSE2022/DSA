@@ -1,3 +1,6 @@
+// Merge sort is another divide-and-conquer algorithm. It divides the input array into two halves, recursively sorts each
+// half, and then merges the sorted halves to produce the final sorted array
+
 #include <stdio.h>
 #include <stdlib.h>
 
