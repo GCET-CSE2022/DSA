@@ -1,10 +1,9 @@
-// Online C compiler to run C program online
 #include <stdio.h>
 #include<stdlib.h>
 
 typedef struct node{
     int data;
-    struct node*next;
+    node*next;
 }node;
 node*createnode(int data)
 {
